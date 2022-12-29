@@ -2,7 +2,7 @@ package dto;
 
 public class PessoaResponse {
 
-    private String nome = "nome";
+    private String nome;
 
     private String cpf;
 }
