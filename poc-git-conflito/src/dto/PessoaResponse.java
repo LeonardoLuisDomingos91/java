@@ -4,5 +4,5 @@ public class PessoaResponse {
 
     private String nome;
 
-    private String cpf;
+    private String cpf = "1";
 }
